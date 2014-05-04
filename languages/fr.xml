@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language id="fr">
+	<version id="0.1">
+		<text id="PLG_DECLARATION_PLUGIN_TITLE" development="new" translation="todo">bulletin d'adhésion</text>
+		<text id="PLG_DECLARATION_PRINT_BUTTON" development="new" translation="todo">imprimer</text>
+	</version>
+</language>
